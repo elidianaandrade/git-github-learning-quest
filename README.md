@@ -71,7 +71,7 @@ Introduzir ao versionamento de código com Git e GitHub.
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
+      <img width="100px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
     </td>
     <td align="left">
       <a href="https://github.com/elidianaandrade">
