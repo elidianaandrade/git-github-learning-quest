@@ -21,8 +21,35 @@ Acesse a pasta que deseja transformar em um repositório Git  pelo terminal ou c
     ```bash
     $ git remote add origin https://github.com/username/nome-do-repositorio.git
     ```
+3. Carregue as informações do repositório remoto para o repositório local:
+    ```bash
+    $ git pull [origin] [main]
+    ```
+4. Status do Repositório Local:
+    ```bash
+    $ git status
+    ```
 ##
 
+### Novo Commit
+
+1. text:
+    ```bash
+    $ git status
+    ```
+1. text:
+    ```bash
+    $ git add [file]
+    ```
+1. text:
+    ```bash
+    $ git push
+    ```
+1. text:
+    ```bash
+    $ git log
+    ```
+   
 ### Desfazendo Alterações no Repositório Local
 
 #### Como alterar a mensagem do último commit
