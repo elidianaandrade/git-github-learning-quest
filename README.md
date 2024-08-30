@@ -1,96 +1,44 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Versionamento de Código com Git e GitHub</span>
-</h1>
+# [![Curso Versionamento de Código com Git e GitHub](https://hermes.digitalinnovation.one/assets/diome/logo.svg)](https://www.dio.me/)
 
-Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Versionamento de Código com Git e GitHub** da [Digital Innovation One](https://www.dio.me/).
+## Versionamento de Código com Git e GitHub
 
-[![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://www.dio.me/) 
-[![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://www.dio.me/) 
+Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio e links úteis para o curso de **Versionamento de Código com Git e GitHub** oferecido pela [DIO](https://www.dio.me/).
 
-## Objetivo
-Introduzir ao versionamento de código com Git e GitHub.
+[![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-000?style=for-the-badge&logo=dio)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066)
 
-## Ferramentas
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-<br>
+## 📋 Objetivo
 
-## Percurso
-<table>
-  <thead>
-    <tr align="left">
-      <th>Nº</th>
-      <th>Etapas</th>
-      <th>Materiais de Apoio</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>Visão Geral do Curso e Ferramentas</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Instalação, Configuração e Autenticação</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>03</td>
-      <td>Primeiros Passos com Git e GitHub</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Dicas e Materiais de Apoio</td>
-      <td align="center">
-        <a href="https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
-        </a>
-      </td>    
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
+Este projeto tem como objetivo introduzir conceitos fundamentais sobre **versionamento de código** utilizando **Git** e **GitHub**, ferramentas essenciais no desenvolvimento de software colaborativo e na gestão de versões de código.
 
-## Instrutora
-<table>
-  <tr>
-    <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/elidianaandrade"/>
-    </td>
-    <td align="left">
-      <a href="https://github.com/elidianaandrade">
-        <span><b>Elidiana Andrade</b></span>
-      </a>
-      <br>
-      <span>Desenvolvedora Front-end</span>
-    </td>
-  </tr>
-</table>
+## 🔧 Ferramentas Utilizadas
 
-## Referências
-- [GIT. Documentation](https://git-scm.com/doc)
-- [GITHUB. Documentation](https://docs.github.com/)
-- [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
-- [GITHUB BLOG. February 28th DDoS Incident Report](https://github.blog/2018-03-01-ddos-incident-report/)
-- [GITHUB BLOG. Raising the bar for software security: GitHub 2FA begins March 13](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/)
-- [GITHUB BLOG. Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-- [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https:/news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
+## 📚 Estrutura do Curso
+
+| Nº  | Etapas                                     | Materiais de Apoio                                                                                   |
+| --- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| 01  | Visão Geral do Curso e Ferramentas         | [Acesse aqui](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/01-visao-geral-do-curso-e-ferramentas.md)  |
+| 02  | Instalação, Configuração e Autenticação    | [Acesse aqui](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/02-instalacao-configuracao-e-autenticacao.md) |
+| 03  | Primeiros Passos com Git e GitHub          | [Acesse aqui](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/03-primeiros-passos-com-git-e-github.md) |
+| 04  | Dicas e Materiais Complementares           | [Acesse aqui](https://github.com/elidianaandrade/dio-curso-git-github/blob/main/materiais-de-apoio/04-dicas-e-materiais-de-apoio.md) |
+
+Cada etapa possui materiais de apoio detalhados para auxiliar o aprendizado. Clique nos links para acessar diretamente os conteúdos correspondentes.
+
+## 🖥 ️ Instalação e Configuração
+
+### Requisitos
+
+- **Git** instalado na sua máquina. Para instalar, siga [este guia](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+- Conta no **GitHub**. Caso não tenha uma, crie sua conta gratuitamente [aqui](https://github.com/).
+
+### Passos para Clonar o Repositório
+
+1. Clone o repositório em sua máquina:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</
+
+
