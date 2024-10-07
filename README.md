@@ -11,6 +11,7 @@ Repositório desenvolvido para fins educativos, com a disponibilização de mate
 
 ## Objetivo
 Introduzir ao versionamento de código com Git e GitHub.
+Aprender mais a cada passo dado.
 
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
