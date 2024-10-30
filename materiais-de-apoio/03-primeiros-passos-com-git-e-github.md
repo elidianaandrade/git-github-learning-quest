@@ -35,15 +35,22 @@ $ git commit --amend –m"nova mensagem"
 ```
 
 #### Como desfazer um commit
-```bash
-$ git reset
-```
+O Git oferece várias maneiras de desfazer um commit, dependendo de como você quer manipular o histórico.
+
+- Reseta o último commit mantendo as mudanças na área de preparação:
+ 
 ```bash
 $ git reset --soft
 ```
+
+- Reseta o último commit e move as mudanças para a área de trabalho:
+
 ```bash
 $ git reset --mixed
 ```
+
+- Remove completamente o commit e as mudanças associadas:
+
 ```bash
 $ git reset --hard
 ```
