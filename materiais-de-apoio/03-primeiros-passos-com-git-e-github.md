@@ -40,19 +40,19 @@ O Git oferece várias maneiras de desfazer um commit, dependendo de como você q
 - Reseta o último commit mantendo as mudanças na área de preparação:
  
 ```bash
-$ git reset --soft
+$ git reset --soft <hash_do_commit>
 ```
 
 - Reseta o último commit e move as mudanças para a área de trabalho:
 
 ```bash
-$ git reset --mixed
+$ git reset --mixed <hash_do_commit>
 ```
 
 - Remove completamente o commit e as mudanças associadas:
 
 ```bash
-$ git reset --hard
+$ git reset --hard <hash_do_commit>
 ```
 
 ##
