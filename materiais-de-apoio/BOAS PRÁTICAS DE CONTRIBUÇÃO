@@ -1,0 +1,92 @@
+# Contribuindo para Este Repositório.
+
+Obrigado por querer contribuir! Para garantir uma experiência colaborativa produtiva e organizada, siga as boas práticas descritas abaixo.
+
+---
+
+## 📚 Boas Práticas de Contribuição
+
+### 1. **Leia a Documentação**
+- Familiarize-se com o projeto e suas regras antes de contribuir.
+- Verifique o arquivo `CONTRIBUTING.md` (se disponível) para orientações específicas.
+
+### 2. **Abra uma Issue**
+- Antes de iniciar qualquer alteração, crie uma issue no repositório explicando a melhoria ou correção que deseja realizar.
+- Espere por feedback ou aprovação antes de começar o trabalho.
+
+### 3. **Crie um Fork**
+- Nunca trabalhe diretamente na branch principal do repositório.
+- Faça um fork do repositório e use-o como base para suas alterações.
+
+### 4. **Trabalhe em uma Branch Separada**
+- Crie uma branch com um nome descritivo sobre a alteração proposta.  
+  Exemplo:  
+  ```bash
+  git checkout -b feature/nova-funcionalidade
+  git checkout -b fix/corrigir-bug
+
+### **5.** **Mantenha** **um** **Código** **Limpo**
+**Siga** **o** **estilo** **de** **código** **do** **projeto** (**verifique** **a** **documentação** **ou** **arquivos** **como** `.eslintrc` **ou** `.prettierrc`).  
+**Inclua** **comentários** **explicativos** **para** **partes** **complexas** **do** **código.**
+
+### **6.** **Escreva** **Mensagens** **de** **Commit** **Descritivas**
+**Use** **mensagens** **de** **commit** **claras** **e** **específicas.**  
+**Exemplo:**
+
+```bash
+git commit -m "Adiciona validação de email ao formulário de login"
+```
+### **7.** **Adicione** **Testes** (**se** **aplicável**)
+**Certifique-se** **de** **que** **suas** **alterações** **não** **quebrem** **funcionalidades** **existentes.**  
+**Adicione** **testes** **relevantes** **para** **cobrir** **seu** **código.**
+
+🔍 **Como** **Tornar** **Suas** **Alterações** **Visíveis** **e** **Claras**
+
+### **1.** **Documente** **Suas** **Alterações**
+**Atualize** **a** **documentação** **do** **projeto,** **se** **necessário.**  
+**Descreva** **suas** **mudanças** **em** **detalhes** **no** **título** **e** **na** **descrição** **do** **pull** **request** (**PR**).
+
+### **2.** **Organize** **o** **Pull** **Request**
+**Certifique-se** **de** **que** **seu** **PR** **está** **alinhado** **com** **a** **branch** **principal** (**use** **git** **rebase** **ou** **git** **merge** **se** **necessário**).  
+**Dê** **um** **título** **descritivo** **ao** **PR.**
+
+**Exemplo:**  
+**Adiciona** **suporte** **para** **autenticação** **via** **OAuth2**
+
+**Na** **descrição,** **informe:**
+- **O** **problema:** **Qual** **problema** **você** **está** **resolvendo?**
+- **A** **solução:** **Como** **você** **resolveu** **o** **problema?**
+- **Impacto:** **O** **que** **foi** **alterado** **ou** **adicionado?**
+
+### **3.** **Forneça** **Exemplos**
+**Inclua** **capturas** **de** **tela,** **vídeos** **ou** **exemplos** **de** **uso** **para** **ajudar** **os** **revisores** **a** **entenderem** **suas** **alterações.**
+
+### **4.** **Seja** **Aberto** **a** **Feedback**
+**Responda** **a** **comentários** **dos** **revisores** **rapidamente.**  
+**Faça** **ajustes** **solicitados** **para** **melhorar** **sua** **contribuição.**
+
+📜 **Modelo** **de** **Pull** **Request**
+**Aqui** **está** **um** **modelo** **para** **facilitar** **a** **criação** **de** **PRs:**
+
+### Descrição
+<!-- Descreva brevemente o que foi alterado -->
+
+### Problema
+<!-- Explique o problema que você está resolvendo -->
+
+### Solução
+<!-- Detalhe como você resolveu o problema -->
+
+### Impacto
+<!-- Explique as partes do código/sistema que foram impactadas -->
+
+### Checklist
+- [ ] O código está documentado.
+- [ ] A funcionalidade foi testada.
+- [ ] Não há conflitos com a branch principal.
+
+🤝 **Comunidade**  
+**Respeite** **todos** **os** **colaboradores.** **Use** **uma** **linguagem** **cordial** **e** **construtiva.**  
+**Lembre-se** **de** **que** **este** **é** **um** **espaço** **de** **aprendizado** **mútuo.**  
+**Obrigado** **por** **colaborar!** **Juntos,** **tornamos** **este** **projeto** **ainda** **melhor.**
+
