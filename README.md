@@ -10,7 +10,12 @@ Repositório desenvolvido para fins educativos, com a disponibilização de mate
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066) 
 
 ## Objetivo
-Introduzir ao versionamento de código com Git e GitHub.
+Este curso tem como objetivo introduzir os conceitos e práticas essenciais do versionamento de código utilizando **Git** e **GitHub**. Ao final do curso, você será capaz de:
+- Entender o funcionamento do Git e sua importância no desenvolvimento de software.
+- Criar e gerenciar repositórios locais e remotos.
+- Dominar comandos básicos e avançados do Git.
+- Colaborar em projetos utilizando GitHub, incluindo pull requests e resolução de conflitos.
+- Aplicar boas práticas de versionamento em seus projetos pessoais e profissionais.
 
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
